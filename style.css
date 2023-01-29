@@ -57,7 +57,7 @@ header {
 }
 
 img {
-    width: 700px;
+    width: 500px;
     border-radius: 30px;
 }
 
@@ -96,7 +96,7 @@ button:hover {
 
 #contact .container {
     display: block;
-    max-width: 1280px;
+    max-width: 1240px;
     margin: 0 auto;
 }
 
